@@ -1,1 +1,24 @@
+/* Eunju Jo 310170731
+  app.css Feb 12 */
+
+
 /* custom css goes here */
+
+.bg-3 { 
+  background-color: #b0ffb7;  /* backgroud color for my website pages*/
+  color: #000000;
+}
+.container-fluid {             /* size of a container on each pages*/   
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.navbar {                       /* customize navigation bar*/
+  padding-top: 8px;
+  padding-bottom: 5px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+  letter-spacing: 5px;
+}
+
